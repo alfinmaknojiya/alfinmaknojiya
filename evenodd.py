@@ -7,4 +7,4 @@ num=int(input("Enter a number"))
 
 isEven(num)
 
-print('hello')
+
